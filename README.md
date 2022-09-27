@@ -3,7 +3,7 @@
 - 职业：学生，计科本科在读
 - 目前兴趣：黑苹果/ opencore
 - 正在学习：Unity 3D/ C#
-- 如何联系我：qizixi@huyw@best
+- 如何联系我：<a href="qizixi@huyw.best" title="我的邮箱">我的邮箱</a>
 
 <!--
 **1-hexene/1-hexene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
