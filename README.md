@@ -1,4 +1,10 @@
-### Hi there 👋
+### 你好👋！欢迎来到我的主页
+## 这是我的自我介绍
+## 下面是一些关于我的事情
+- 职业：学生，计科本科在读
+- 目前兴趣：黑苹果/ opencore
+- 正在学习：Unity 3D/ C#
+- 如何联系我：qizixi@huyw@best
 
 <!--
 **1-hexene/1-hexene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
