@@ -1,6 +1,9 @@
 # 你好👋！欢迎来到我的主页
-## 这是我的自我介绍，下面是一些关于我的事情：
+# Hello there👋！Welcome to my page
+## 这是我的自我介绍，下面是一些关于我的事项：
+## This is my self introduction, and here are some of my details:
 - 职业：学生，计科本科在读
+- career: Student, 
 - 目前兴趣：黑苹果/ opencore
 - 正在学习：Unity 3D/ C#
 - 如何联系我：<a href="qizixi@huyw.best" title="我的邮箱">我的邮箱</a>
