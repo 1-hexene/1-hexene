@@ -1,4 +1,4 @@
-# 你好👋！欢迎来到我的主页 | Hello there👋！Welcome to my page :)
+# 你好👋！欢迎来到我的主页 <br> Hello there👋！Welcome to my page :)
 ## 关于我 | About me
 - 职业| career: 24岁，是学生 | 24yo student
 - 联系我 | Contact me: <a href="csqizixi@gmail.com" title="csqizixi@gmail.com"></a>
