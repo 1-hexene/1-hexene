@@ -1,13 +1,9 @@
-# 你好👋！欢迎来到我的主页
-# Hello there👋！Welcome to my page
-## 这是我的自我介绍，下面是一些关于我的事项：
-## This is my self introduction, and here are some of my details:
-- 职业：学生，计科本科在读
-- career: Student, 
-- 目前兴趣：黑苹果/ opencore
-- 正在学习：Unity 3D/ C#
-- 如何联系我：<a href="qizixi@huyw.best" title="我的邮箱">我的邮箱</a>
-
+# 你好👋！欢迎来到我的主页 | Hello there👋！Welcome to my page :)
+## 关于我 | About me
+- 职业| career: 24岁，是学生 | 24yo student
+- 联系我 | Contact me: <a href="csqizixi@gmail.com" title="csqizixi@gmail.com"></a>
+- 正在学习 | Learning: 嵌入式设备和嵌入式Linux | Embedded Devices and Embedded Linux
+- 感兴趣 | Interest: 3D打印, 卡片电脑, 路由器 | 3D Printers, Card Computers, Routers
 <!--
 **1-hexene/1-hexene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
