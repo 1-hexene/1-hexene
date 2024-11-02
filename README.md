@@ -3,7 +3,7 @@
 - 职业| career: 24岁，是学生 | 24yo student
 - 联系我 | Contact me: <a href="csqizixi@gmail.com" title="csqizixi@gmail.com"></a>
 - 正在学习 | Learning: 嵌入式设备和嵌入式Linux | Embedded Devices and Embedded Linux
-- 感兴趣 | Interest: 3D打印, 卡片电脑, 路由器 | 3D Printers, Card Computers, Routers
+- 感兴趣 | Interest: 3D打印, 卡片电脑, 路由器 | 3D Printers, Single-board Computers, Routers
 <!--
 **1-hexene/1-hexene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
